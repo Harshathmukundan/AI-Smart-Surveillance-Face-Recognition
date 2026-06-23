@@ -6,6 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Release](https://img.shields.io/github/v/release/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition?style=for-the-badge&logo=github&color=teal)](https://github.com/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/releases)
+[![Downloads](https://img.shields.io/github/downloads/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/total?style=for-the-badge&logo=github&color=darkgreen)](https://github.com/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/releases)
+[![Discussions](https://img.shields.io/github/discussions/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/discussions)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition?style=for-the-badge&logo=github&color=gold)](https://github.com/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition?style=for-the-badge&logo=github&color=blue)](https://github.com/Harshathmukundan/AI-Smart-Surveillance-Face-Recognition/network)
